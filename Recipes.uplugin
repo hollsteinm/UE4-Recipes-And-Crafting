@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "Recipes",
+	"Description": "Crafting System Plugin with Slate UI Starter Content for fast prototyping.",
+	"Category": "Gameplay",
+	"CreatedBy": "Martin Hollstein",
+	"CreatedByURL": "https://hollstein.dev",
+	"DocsURL": "https://www.github.com/hollsteinm/UE4-Recipes-And-Crafting-Plugin",
+	"SupportURL": "https://www.github.com/hollsteinm/UE4-Recipes-And-Crafting-Plugin/issues",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "Recipes",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
